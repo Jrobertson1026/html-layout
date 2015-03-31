@@ -1,0 +1,43 @@
+html, body {
+	background: white;
+	width: 100%;
+	margin: 0;
+}
+.row {
+	height: 100px;
+	width: 100%;
+	float: top;
+}
+.box {
+	background: #6666FF;
+	height: 50px;
+	width: 50px;
+	float: left;
+	margin: 20px;
+}
+.first {
+	background: #B0B0B0;
+}
+.second {
+	background: white;
+	width: 100%;
+	float: bottom;
+}
+.second p {
+	font-size: 30px;
+	text-align: left;
+	padding: 30px;
+}
+
+.third {
+	background: #6666FF;
+}
+.fourth {
+	background: #66FFFF;
+}
+.fifth {
+	background: #ccFF99;
+}
+.sixth {
+	background: yellow;
+}
