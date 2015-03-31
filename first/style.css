@@ -1,0 +1,29 @@
+.parent{
+	background: gray;
+	margin: auto;
+	width: 100%;
+	height: 100%;
+}
+
+.headboard {
+	background: black;
+	width: 100%;
+	height: 15%;
+	float: top;
+}
+.sideboardl {
+	background: white;
+	width: 80%;
+	height: 70%;
+	margin: 0 auto;
+}
+.baseboard {
+	background: black;
+	width: 80%;
+	height: 15%;
+	margin: 0 auto;
+
+
+}
+
+
